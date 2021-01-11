@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"nama":"Dragon, komodo","category":"Purple"},
+{"id":2,"nama":"Flicker, field","category":"Pink"},
+{"id":3,"nama":"Crowned eagle","category":"Yellow"},
+{"id":4,"nama":"Bushbuck","category":"Goldenrod"},
+{"id":5,"nama":"White-throated monitor","category":"Teal"},
+{"id":6,"nama":"Roan antelope","category":"Mauv"},
+{"id":7,"nama":"Southern brown bandicoot","category":"Purple"},
+{"id":8,"nama":"Dragonfly, russian","category":"Goldenrod"},
+{"id":9,"nama":"Western bearded dragon","category":"Purple"},
+{"id":10,"nama":"Blue catfish","category":"Puce"},
+{"id":11,"nama":"Brazilian tapir","category":"Yellow"},
+{"id":12,"nama":"Arctic lemming","category":"Orange"},
+{"id":13,"nama":"Indian peacock","category":"Aquamarine"},
+{"id":14,"nama":"Rat, arboral spiny","category":"Orange"},
+{"id":15,"nama":"Stone sheep","category":"Orange"},
+{"id":16,"nama":"Heron, black-crowned night","category":"Fuscia"},
+{"id":17,"nama":"Eastern dwarf mongoose","category":"Violet"},
+{"id":18,"nama":"Brown capuchin","category":"Turquoise"},
+{"id":19,"nama":"African lynx","category":"Pink"},
+{"id":20,"nama":"Fox, asian red","category":"Mauv"}
+]
+}
